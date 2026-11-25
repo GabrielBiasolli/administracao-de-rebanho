@@ -1,6 +1,8 @@
 # Administração de Rebanho
 
-Sistema de gestão de rebanho de corte, em linguagem C e executado no terminal. Trabalho da disciplina de **Algoritmos 2** (Uniftec).
+![Produtor anotando dados de uma vaca no pasto](imagens/5307-fundamentos-gestao-gado-leiteiro.webp)
+
+Sistema de gestão de rebanho de corte, em linguagem C e executado no terminal. Trabalho final da disciplina de **Algoritmos 2** no semestre de 26/2.
 
 ## Objetivo geral
 
